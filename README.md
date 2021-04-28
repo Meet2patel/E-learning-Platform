@@ -1,1 +1,1 @@
-./Temp.html
+<script>aleart(1)</script>
